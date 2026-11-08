@@ -1,3 +1,3 @@
 My shopping list
 - apples
-- waters
+- water
