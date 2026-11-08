@@ -1,7 +1,3 @@
 My shopping list
 - apples
-
-## Drinks
-
-- water
-
+- waters
