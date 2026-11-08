@@ -1,4 +1,4 @@
 My shopping list
-- red apples
+- green apples
 - sparkling water
 - coconut water
